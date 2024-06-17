@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💻
 
-<!--
-**MateusWosk/MateusWosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Mateus Henrique Wosniaki**
 
-Here are some ideas to get you started:
+- Estou no 1º ano do Ensino Médio
+- Possuo conhecimento breve em _programação_
+- Pretendo ser Engenheiro de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contatos 📞
+
+mateuswosk@gmail.com
+
+@mateus_wosk
